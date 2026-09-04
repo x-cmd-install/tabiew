@@ -4,10 +4,10 @@ about:
     A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
   license: MIT
   homepage: 
-  head: 9455fba
+  head: e3968a1
   archived: false
   latestVersion: v0.14.2
-  collectedAt: 2026-09-04T19:20:31Z
+  collectedAt: 2026-09-04T21:12:10Z
 timeline:
   created: 2024-04-27
   lastCommit: 2026-09-04
@@ -21,9 +21,9 @@ popularity:
   pullRequest: 28
   issue: 93
 language:
-  Rust: 1046205
+  Rust: 1046309
   Shell: 7044
-totalBytes: 1053249
+totalBytes: 1053353
 recent:
   last30d:
     since: 2026-08-05
@@ -32,7 +32,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 94
+    commit: 96
   last60d:
     since: 2026-07-06
     release: 2
@@ -40,7 +40,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 3
-    commit: 129
+    commit: 131
   last90d:
     since: 2026-06-06
     release: 3
@@ -48,7 +48,7 @@ recent:
     openPR: 2
     closedIssue: 1
     openIssue: 5
-    commit: 250
+    commit: 252
   last180d:
     since: 2026-03-08
     release: 5
@@ -56,7 +56,7 @@ recent:
     openPR: 3
     closedIssue: 4
     openIssue: 9
-    commit: 369
+    commit: 371
   last360d:
     since: 2025-09-09
     release: 6
@@ -64,7 +64,7 @@ recent:
     openPR: 3
     closedIssue: 13
     openIssue: 12
-    commit: 843
+    commit: 845
   last720d:
     since: 2024-09-14
     release: 20
@@ -72,14 +72,42 @@ recent:
     openPR: 3
     closedIssue: 70
     openIssue: 14
-    commit: 1198
+    commit: 1200
 total:
   release: 36
   mergedPR: 23
   openPR: 3
   closedIssue: 79
   openIssue: 14
-  commit: 1455
+  commit: 1457
 ---
+path: /home/runner/.x-repo/github.com/shshemi/tabiew
+collectedAt: 2026-09-04T21:12:12Z
+loc:
+  Rust:
+    code: 27670
+    comments: 73
+    blanks: 3996
+    files: 558
+  Toml:
+    code: 204
+    comments: 0
+    blanks: 14
+    files: 2
+  Sh:
+    code: 191
+    comments: 12
+    blanks: 30
+    files: 1
+  Markdown:
+    code: 0
+    comments: 128
+    blanks: 50
+    files: 1
+total:
+  code: 28086
+  comments: 255
+  blanks: 4092
+  files: 562
 ---
 
