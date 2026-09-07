@@ -5,13 +5,13 @@ about:
   head: 7a9d4d5
   archived: false
   latestVersion: "v0.15.0"
-  collectedAt: 2026-09-07T04:35:51Z
+  collectedAt: 2026-09-07T19:45:42Z
 timeline:
   created: 2024-04-27
   lastCommit: 2026-09-06
   lastRelease: 2026-09-06
 popularity:
-  star: 3095
+  star: 3097
   watcher: 11
   fork: 91
   release: 37
@@ -30,7 +30,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 3
-    commit: 108
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 2
@@ -38,7 +38,7 @@ recent:
     openPR: 2
     closedIssue: 1
     openIssue: 4
-    commit: 121
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 4
@@ -46,7 +46,7 @@ recent:
     openPR: 2
     closedIssue: 2
     openIssue: 6
-    commit: 264
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 6
@@ -54,7 +54,7 @@ recent:
     openPR: 3
     closedIssue: 5
     openIssue: 10
-    commit: 370
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 7
@@ -62,7 +62,7 @@ recent:
     openPR: 3
     closedIssue: 14
     openIssue: 13
-    commit: 843
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 21
@@ -80,7 +80,7 @@ total:
   commit: 1465
 ---
 path: /home/runner/.x-repo/github.com/shshemi/tabiew
-collectedAt: 2026-09-07T04:35:52Z
+collectedAt: 2026-09-07T19:45:44Z
 loc:
   Rust:
     code: 27932
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:53+00:00
+  collectedAt: 2026-09-07T19:45:45+00:00
   platform:
     darwin/arm64:
       name:  tw-aarch64-apple-darwin
