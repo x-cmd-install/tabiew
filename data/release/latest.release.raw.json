@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3976,
       "digest": "sha256:b5d3f1e50c52b9f2ff44d4b9664301b417232481bf21fc6e606cf1166539ae18",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-06T02:55:24Z",
       "updated_at": "2026-09-06T02:55:24Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.15.0/tabiew-manual-and-completions.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 57920256,
       "digest": "sha256:3f866bae0fc01f2a1db21de40c5466ac7b6ed0871e099bca54286781a444a35f",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-06T02:55:24Z",
       "updated_at": "2026-09-06T02:55:29Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.15.0/tw-aarch64-apple-darwin"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 76691112,
       "digest": "sha256:f4b12eacdb283674ff83e41c864e0ce41cee4c6bda1ab7bf34cd5633e113f11d",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-06T02:55:24Z",
       "updated_at": "2026-09-06T02:55:30Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.15.0/tw-x86_64-unknown-linux-gnu"
