@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.1"
   latestRelease: "v0.15.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:47:31Z
+  collectedAt: 2026-09-09T18:52:46Z
 timeline:
   created: 2024-04-27
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 3097
+  star: 3099
   watcher: 11
   fork: 91
   release: 38
@@ -32,59 +32,59 @@ recent:
     release: 3
     mergedPR: 2
     openPR: 1
-    closedIssue: 1
-    openIssue: 3
+    closedIssue: 2
+    openIssue: 2
     commit: 110
   last60d:
     since: 2026-07-11
     release: 3
     mergedPR: 2
     openPR: 2
-    closedIssue: 1
-    openIssue: 4
+    closedIssue: 2
+    openIssue: 3
     commit: 123
   last90d:
     since: 2026-06-11
     release: 5
     mergedPR: 2
     openPR: 2
-    closedIssue: 2
-    openIssue: 5
+    closedIssue: 3
+    openIssue: 4
     commit: 266
   last180d:
     since: 2026-03-13
     release: 7
     mergedPR: 4
     openPR: 3
-    closedIssue: 5
-    openIssue: 10
+    closedIssue: 6
+    openIssue: 9
     commit: 372
   last360d:
     since: 2025-09-14
     release: 8
     mergedPR: 10
     openPR: 3
-    closedIssue: 14
-    openIssue: 13
+    closedIssue: 15
+    openIssue: 12
     commit: 845
   last720d:
     since: 2024-09-19
     release: 22
     mergedPR: 19
     openPR: 3
-    closedIssue: 71
-    openIssue: 15
+    closedIssue: 72
+    openIssue: 14
     commit: 1211
 total:
   release: 38
   mergedPR: 23
   openPR: 3
-  closedIssue: 80
-  openIssue: 15
+  closedIssue: 81
+  openIssue: 14
   commit: 1467
 ---
 path: /home/runner/.x-repo/github.com/shshemi/tabiew
-collectedAt: 2026-09-09T04:47:32Z
+collectedAt: 2026-09-09T18:52:48Z
 loc:
   Rust:
     code: 27936
