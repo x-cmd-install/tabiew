@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.1"
   latestRelease: "v0.15.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:35:09Z
+  collectedAt: 2026-09-10T21:33:34Z
 timeline:
   created: 2024-04-27
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 3099
+  star: 3100
   watcher: 11
   fork: 92
   release: 38
@@ -84,7 +84,7 @@ total:
   commit: 1467
 ---
 path: /home/runner/.x-repo/github.com/shshemi/tabiew
-collectedAt: 2026-09-10T16:35:11Z
+collectedAt: 2026-09-10T21:33:36Z
 loc:
   Rust:
     code: 27936
