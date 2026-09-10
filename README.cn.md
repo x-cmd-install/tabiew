@@ -4,7 +4,7 @@
 
 A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
-![tabiew](https://repo.x-cmd.io/tabiew.svg)
+![tabiew](https://repo.x-cmd.io/tabiew.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,29 @@ x install tabiew
 - **最新版本**: `v0.15.1` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-09-09T02:28:41Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.deb) | 14.4 MiB | `native/linux/arm64/glibc` |
+| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.rpm) | 16.7 MiB | `native/linux/arm64/glibc` |
+| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-manual-and-completions.tar.gz) | 3.9 KiB | `native/unknown` |
+| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.deb) | 16.1 MiB | `native/linux/x64/glibc` |
+| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.2 MiB | `native/linux/x64/glibc` |
+| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-apple-darwin) | 55.2 MiB | `native/darwin/arm64` |
+| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-pc-windows-msvc.exe) | 55.2 MiB | `native/win/arm64` |
+| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-gnu) | 63.3 MiB | `native/linux/arm64/glibc` |
+| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-musl) | 60.2 MiB | `native/linux/arm64/musl` |
+| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-armv7-unknown-linux-gnueabihf) | 60.8 MiB | `native/linux/arm/glibc` |
+| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-apple-darwin) | 65.0 MiB | `native/darwin/x64` |
+| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-pc-windows-msvc.exe) | 65.1 MiB | `native/win/x64` |
+| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
+| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 3,099 · **Fork**: 91 · **开放 issue**: 95 · **贡献者**: 21
+- **Star**: 3,099 · **Fork**: 92 · **开放 issue**: 95 · **贡献者**: 21
 
 ## 累计统计
 
@@ -60,4 +78,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:05:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:15Z._

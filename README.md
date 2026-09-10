@@ -22,11 +22,29 @@ x install tabiew
 - **Latest**: `v0.15.1` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 14
-- **Published**: 2026-09-09T02:28:41Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.deb) | 14.4 MiB | `native/linux/arm64/glibc` |
+| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.rpm) | 16.7 MiB | `native/linux/arm64/glibc` |
+| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-manual-and-completions.tar.gz) | 3.9 KiB | `native/unknown` |
+| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.deb) | 16.1 MiB | `native/linux/x64/glibc` |
+| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.2 MiB | `native/linux/x64/glibc` |
+| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-apple-darwin) | 55.2 MiB | `native/darwin/arm64` |
+| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-pc-windows-msvc.exe) | 55.2 MiB | `native/win/arm64` |
+| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-gnu) | 63.3 MiB | `native/linux/arm64/glibc` |
+| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-musl) | 60.2 MiB | `native/linux/arm64/musl` |
+| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-armv7-unknown-linux-gnueabihf) | 60.8 MiB | `native/linux/arm/glibc` |
+| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-apple-darwin) | 65.0 MiB | `native/darwin/x64` |
+| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-pc-windows-msvc.exe) | 65.1 MiB | `native/win/x64` |
+| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
+| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 3,099 · **Forks**: 91 · **Open issues**: 95 · **Contributors**: 21
+- **Stars**: 3,099 · **Forks**: 92 · **Open issues**: 95 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -56,8 +74,8 @@ Total: **28,331** lines of code across **564** files in the top 5 languages.
 Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tabiew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tabiew.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tabiew.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:05:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:15Z._
