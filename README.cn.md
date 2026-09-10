@@ -12,6 +12,17 @@ A lightweight TUI application to view and query tabular data files, such as CSV,
 x install tabiew
 ```
 
+## 代码规模
+
+合计: **28,331** 行代码（覆盖前 5 种语言、共 **564** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 27,936 | 73 | 4,019 | 560 |
+| Toml | 204 | 0 | 14 | 2 |
+| Sh | 191 | 12 | 30 | 1 |
+| Markdown | 0 | 134 | 51 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/shshemi/tabiew>
@@ -22,6 +33,25 @@ x install tabiew
 - **最新版本**: `v0.15.1` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 14 个
+
+## 流行度
+
+- **Star**: 3,100 · **Fork**: 92 · **开放 issue**: 95 · **贡献者**: 21
+
+## 累计统计
+
+- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 3 · **已关闭 issue**: 81 · **开放 issue**: 14 · **提交数**: 1467
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 2 | 1 | 2 | 2 | 110 |
+| last60d | 2026-07-12 | 3 | 2 | 2 | 2 | 3 | 123 |
+| 90d | 2026-06-12 | 5 | 2 | 2 | 3 | 4 | 266 |
+| last180d | 2026-03-14 | 7 | 4 | 3 | 6 | 9 | 372 |
+| 360d | 2025-09-15 | 8 | 10 | 3 | 15 | 12 | 845 |
+| last720d | 2024-09-20 | 22 | 19 | 3 | 72 | 14 | 1211 |
 
 ## Release 资产
 
@@ -42,32 +72,16 @@ x install tabiew
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 3,099 · **Fork**: 92 · **开放 issue**: 95 · **贡献者**: 21
+在 [repology.org](https://repology.org/project/tabiew) 上共有 **17** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 3 · **已关闭 issue**: 81 · **开放 issue**: 14 · **提交数**: 1467
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 2 | 1 | 2 | 2 | 110 |
-| 90d | 2026-06-12 | 5 | 2 | 2 | 3 | 4 | 266 |
-| 360d | 2025-09-15 | 8 | 10 | 3 | 15 | 12 | 845 |
-
-## 代码规模
-
-合计: **28,331** 行代码（覆盖前 5 种语言、共 **564** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 27,936 | 73 | 4,019 | 560 |
-| Toml | 204 | 0 | 14 | 2 |
-| Sh | 191 | 12 | 30 | 1 |
-| Markdown | 0 | 134 | 51 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.15.0` | ⚠️ outdated |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.15.0` | ⚠️ outdated |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -78,4 +92,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:33:44Z._

@@ -12,6 +12,17 @@ A lightweight TUI application to view and query tabular data files, such as CSV,
 x install tabiew
 ```
 
+## Code insight
+
+Total: **28,331** lines of code across **564** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 27,936 | 73 | 4,019 | 560 |
+| Toml | 204 | 0 | 14 | 2 |
+| Sh | 191 | 12 | 30 | 1 |
+| Markdown | 0 | 134 | 51 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/shshemi/tabiew>
@@ -22,6 +33,25 @@ x install tabiew
 - **Latest**: `v0.15.1` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 3,100 · **Forks**: 92 · **Open issues**: 95 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 81 · **Open issues**: 14 · **Commits**: 1467
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 2 | 1 | 2 | 2 | 110 |
+| last60d | 2026-07-12 | 3 | 2 | 2 | 2 | 3 | 123 |
+| 90d | 2026-06-12 | 5 | 2 | 2 | 3 | 4 | 266 |
+| last180d | 2026-03-14 | 7 | 4 | 3 | 6 | 9 | 372 |
+| 360d | 2025-09-15 | 8 | 10 | 3 | 15 | 12 | 845 |
+| last720d | 2024-09-20 | 22 | 19 | 3 | 72 | 14 | 1211 |
 
 ## Release assets
 
@@ -42,32 +72,16 @@ x install tabiew
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,099 · **Forks**: 92 · **Open issues**: 95 · **Contributors**: 21
+Reported by **17** distros on [repology.org](https://repology.org/project/tabiew). **2** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 81 · **Open issues**: 14 · **Commits**: 1467
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 2 | 1 | 2 | 2 | 110 |
-| 90d | 2026-06-12 | 5 | 2 | 2 | 3 | 4 | 266 |
-| 360d | 2025-09-15 | 8 | 10 | 3 | 15 | 12 | 845 |
-
-## Code size
-
-Total: **28,331** lines of code across **564** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 27,936 | 73 | 4,019 | 560 |
-| Toml | 204 | 0 | 14 | 2 |
-| Sh | 191 | 12 | 30 | 1 |
-| Markdown | 0 | 134 | 51 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.15.0` | ⚠️ outdated |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.15.0` | ⚠️ outdated |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -78,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:33:43Z._
