@@ -36,7 +36,7 @@ Total: **28,336** lines of code across **565** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,101 · **Forks**: 92 · **Open issues**: 96 · **Contributors**: 21
+- **Stars**: 3,100 · **Forks**: 92 · **Open issues**: 96 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **28,336** lines of code across **565** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 2 | 1 | 2 | 3 | 111 |
-| last60d | 2026-07-15 | 3 | 2 | 2 | 2 | 4 | 124 |
-| 90d | 2026-06-15 | 5 | 2 | 2 | 3 | 5 | 267 |
-| last180d | 2026-03-17 | 6 | 4 | 3 | 6 | 10 | 373 |
-| 360d | 2025-09-18 | 8 | 10 | 3 | 15 | 13 | 846 |
-| last720d | 2024-09-23 | 22 | 19 | 3 | 72 | 15 | 1212 |
+| 30d | 2026-08-15 | 3 | 2 | 1 | 2 | 3 | 89 |
+| last60d | 2026-07-16 | 3 | 2 | 1 | 2 | 4 | 121 |
+| 90d | 2026-06-16 | 5 | 2 | 2 | 3 | 5 | 261 |
+| last180d | 2026-03-18 | 6 | 4 | 3 | 6 | 10 | 365 |
+| 360d | 2025-09-19 | 8 | 10 | 3 | 14 | 13 | 832 |
+| last720d | 2024-09-24 | 22 | 19 | 3 | 72 | 15 | 1212 |
 
 ## Release assets
 
@@ -72,17 +72,6 @@ Total: **28,336** lines of code across **565** files in the top 5 languages.
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/tabiew). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.15.0` | ⚠️ outdated |
-| Alpine edge | `0.11.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tabiew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +81,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:01:12Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:05:21Z._

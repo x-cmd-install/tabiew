@@ -36,7 +36,7 @@ x install tabiew
 
 ## 流行度
 
-- **Star**: 3,101 · **Fork**: 92 · **开放 issue**: 96 · **贡献者**: 21
+- **Star**: 3,100 · **Fork**: 92 · **开放 issue**: 96 · **贡献者**: 21
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install tabiew
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 2 | 1 | 2 | 3 | 111 |
-| last60d | 2026-07-15 | 3 | 2 | 2 | 2 | 4 | 124 |
-| 90d | 2026-06-15 | 5 | 2 | 2 | 3 | 5 | 267 |
-| last180d | 2026-03-17 | 6 | 4 | 3 | 6 | 10 | 373 |
-| 360d | 2025-09-18 | 8 | 10 | 3 | 15 | 13 | 846 |
-| last720d | 2024-09-23 | 22 | 19 | 3 | 72 | 15 | 1212 |
+| 30d | 2026-08-15 | 3 | 2 | 1 | 2 | 3 | 89 |
+| last60d | 2026-07-16 | 3 | 2 | 1 | 2 | 4 | 121 |
+| 90d | 2026-06-16 | 5 | 2 | 2 | 3 | 5 | 261 |
+| last180d | 2026-03-18 | 6 | 4 | 3 | 6 | 10 | 365 |
+| 360d | 2025-09-19 | 8 | 10 | 3 | 14 | 13 | 832 |
+| last720d | 2024-09-24 | 22 | 19 | 3 | 72 | 15 | 1212 |
 
 ## Release 资产
 
@@ -72,17 +72,6 @@ x install tabiew
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tabiew) 上共有 **17** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.15.0` | ⚠️ outdated |
-| Alpine edge | `0.11.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tabiew` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +81,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:01:12Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:05:22Z._
