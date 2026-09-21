@@ -14,11 +14,11 @@ x install tabiew
 
 ## Code insight
 
-Total: **28,586** lines of code across **568** files in the top 5 languages.
+Total: **28,678** lines of code across **573** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,191 | 67 | 4,048 | 564 |
+| Rust | 28,283 | 95 | 4,060 | 569 |
 | Toml | 204 | 0 | 14 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -31,27 +31,27 @@ Total: **28,586** lines of code across **568** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.1` (2026-09-09)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 3,112 · **Forks**: 93 · **Open issues**: 96 · **Contributors**: 21
+- **Stars**: 3,116 · **Forks**: 93 · **Open issues**: 96 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 82 · **Open issues**: 14 · **Commits**: 1485
+- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 82 · **Open issues**: 14 · **Commits**: 1491
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 2 | 1 | 2 | 3 | 98 |
-| last60d | 2026-07-22 | 3 | 2 | 1 | 2 | 4 | 133 |
-| 90d | 2026-06-22 | 5 | 2 | 2 | 3 | 5 | 274 |
-| last180d | 2026-03-24 | 6 | 4 | 3 | 6 | 10 | 364 |
-| 360d | 2025-09-25 | 8 | 10 | 3 | 14 | 12 | 825 |
-| last720d | 2024-09-30 | 22 | 19 | 3 | 73 | 14 | 1229 |
+| 30d | 2026-08-22 | 2 | 2 | 1 | 2 | 3 | 104 |
+| last60d | 2026-07-23 | 3 | 2 | 1 | 2 | 4 | 139 |
+| 90d | 2026-06-23 | 5 | 2 | 2 | 3 | 5 | 280 |
+| last180d | 2026-03-25 | 6 | 3 | 3 | 6 | 10 | 370 |
+| 360d | 2025-09-26 | 8 | 10 | 3 | 14 | 12 | 831 |
+| last720d | 2024-10-01 | 22 | 19 | 3 | 73 | 14 | 1235 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:15:23Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:13:00Z._
