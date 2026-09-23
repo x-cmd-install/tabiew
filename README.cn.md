@@ -4,7 +4,7 @@
 
 A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
-[![x-cmd/install — tabiew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tabiew.svg?lang=zh)](https://x-cmd.com/install/tabiew)
+[![x-cmd/install — tabiew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tabiew.svg?lang=zh)](https://x-cmd.com/install/tabiew)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install tabiew
 
 ## 代码洞察
 
-合计: **28,678** 行代码（覆盖前 5 种语言、共 **573** 个文件）。
+合计: **28,802** 行代码（覆盖前 5 种语言、共 **573** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 28,283 | 95 | 4,060 | 569 |
+| Rust | 28,407 | 95 | 4,100 | 569 |
 | Toml | 204 | 0 | 14 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -31,7 +31,7 @@ x install tabiew
 ## 发布
 
 - **最新版本**: `v0.15.1` (2026-09-09)
-- **最近提交**: 2026-09-20
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 14 个
 
 ## 流行度
@@ -40,18 +40,18 @@ x install tabiew
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 3 · **已关闭 issue**: 82 · **开放 issue**: 14 · **提交数**: 1491
+- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 3 · **已关闭 issue**: 82 · **开放 issue**: 14 · **提交数**: 1496
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 2 | 1 | 2 | 2 | 104 |
-| last60d | 2026-07-24 | 3 | 2 | 1 | 2 | 4 | 139 |
-| 90d | 2026-06-24 | 5 | 2 | 2 | 3 | 5 | 280 |
-| last180d | 2026-03-26 | 6 | 3 | 3 | 6 | 10 | 370 |
-| 360d | 2025-09-27 | 8 | 10 | 3 | 14 | 12 | 831 |
-| last720d | 2024-10-02 | 22 | 19 | 3 | 73 | 14 | 1235 |
+| 30d | 2026-08-24 | 2 | 2 | 1 | 2 | 2 | 109 |
+| last60d | 2026-07-25 | 3 | 2 | 1 | 2 | 4 | 144 |
+| 90d | 2026-06-25 | 5 | 2 | 2 | 3 | 5 | 285 |
+| last180d | 2026-03-27 | 6 | 3 | 3 | 6 | 10 | 375 |
+| 360d | 2025-09-28 | 8 | 10 | 3 | 14 | 12 | 836 |
+| last720d | 2024-10-03 | 22 | 19 | 3 | 73 | 14 | 1240 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:55:44Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:03:51Z._

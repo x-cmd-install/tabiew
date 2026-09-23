@@ -4,7 +4,7 @@
 
 A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
-[![x-cmd/install — tabiew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tabiew.svg)](https://x-cmd.com/install/tabiew)
+[![x-cmd/install — tabiew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tabiew.svg)](https://x-cmd.com/install/tabiew)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install tabiew
 
 ## Code insight
 
-Total: **28,678** lines of code across **573** files in the top 5 languages.
+Total: **28,802** lines of code across **573** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,283 | 95 | 4,060 | 569 |
+| Rust | 28,407 | 95 | 4,100 | 569 |
 | Toml | 204 | 0 | 14 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -31,7 +31,7 @@ Total: **28,678** lines of code across **573** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.1` (2026-09-09)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-23
 - **Assets in release**: 14
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **28,678** lines of code across **573** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 82 · **Open issues**: 14 · **Commits**: 1491
+- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 3 · **Closed issues**: 82 · **Open issues**: 14 · **Commits**: 1496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 2 | 1 | 2 | 2 | 104 |
-| last60d | 2026-07-24 | 3 | 2 | 1 | 2 | 4 | 139 |
-| 90d | 2026-06-24 | 5 | 2 | 2 | 3 | 5 | 280 |
-| last180d | 2026-03-26 | 6 | 3 | 3 | 6 | 10 | 370 |
-| 360d | 2025-09-27 | 8 | 10 | 3 | 14 | 12 | 831 |
-| last720d | 2024-10-02 | 22 | 19 | 3 | 73 | 14 | 1235 |
+| 30d | 2026-08-24 | 2 | 2 | 1 | 2 | 2 | 109 |
+| last60d | 2026-07-25 | 3 | 2 | 1 | 2 | 4 | 144 |
+| 90d | 2026-06-25 | 5 | 2 | 2 | 3 | 5 | 285 |
+| last180d | 2026-03-27 | 6 | 3 | 3 | 6 | 10 | 375 |
+| 360d | 2025-09-28 | 8 | 10 | 3 | 14 | 12 | 836 |
+| last720d | 2024-10-03 | 22 | 19 | 3 | 73 | 14 | 1240 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:55:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:03:50Z._
