@@ -46,12 +46,12 @@ Total: **28,878** lines of code across **576** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 1 | 1 | 2 | 2 | 120 |
-| last60d | 2026-07-28 | 3 | 2 | 1 | 2 | 3 | 155 |
-| 90d | 2026-06-28 | 4 | 2 | 2 | 3 | 4 | 296 |
-| last180d | 2026-03-30 | 6 | 3 | 3 | 6 | 9 | 386 |
-| 360d | 2025-10-01 | 8 | 8 | 3 | 14 | 12 | 847 |
-| last720d | 2024-10-06 | 22 | 19 | 3 | 73 | 14 | 1251 |
+| 30d | 2026-08-28 | 2 | 1 | 1 | 2 | 2 | 61 |
+| last60d | 2026-07-29 | 3 | 2 | 1 | 2 | 3 | 155 |
+| 90d | 2026-06-29 | 4 | 2 | 2 | 3 | 4 | 292 |
+| last180d | 2026-03-31 | 6 | 3 | 3 | 6 | 9 | 386 |
+| 360d | 2025-10-02 | 8 | 8 | 3 | 14 | 12 | 819 |
+| last720d | 2024-10-07 | 22 | 19 | 3 | 73 | 14 | 1249 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:10:33Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:21:12Z._
