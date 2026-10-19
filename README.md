@@ -18,7 +18,7 @@ Total: **30,774** lines of code across **593** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 30,391 | 87 | 4,314 | 589 |
+| Rust | 30,391 | 86 | 4,313 | 589 |
 | Toml | 192 | 0 | 15 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -36,22 +36,22 @@ Total: **30,774** lines of code across **593** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,142 · **Forks**: 97 · **Open issues**: 97 · **Contributors**: 21
+- **Stars**: 3,142 · **Forks**: 97 · **Open issues**: 98 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 15 · **Commits**: 1586
+- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1587
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-19 | 2 | 2 | 2 | 2 | 4 | 0 |
-| 90d | 2026-07-20 | 3 | 2 | 2 | 2 | 5 | 0 |
-| last180d | 2026-04-21 | 6 | 3 | 3 | 6 | 9 | 0 |
-| 360d | 2025-10-23 | 8 | 7 | 4 | 14 | 13 | 0 |
-| last720d | 2024-10-28 | 21 | 19 | 4 | 69 | 15 | 1315 |
+| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 2 | 83 |
+| last60d | 2026-08-20 | 2 | 2 | 2 | 2 | 5 | 202 |
+| 90d | 2026-07-21 | 3 | 2 | 2 | 2 | 6 | 235 |
+| last180d | 2026-04-22 | 6 | 3 | 3 | 6 | 10 | 433 |
+| 360d | 2025-10-24 | 8 | 7 | 4 | 14 | 14 | 889 |
+| last720d | 2024-10-29 | 21 | 19 | 4 | 67 | 16 | 1315 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:28:20Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:39:09Z._
