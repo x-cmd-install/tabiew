@@ -14,11 +14,11 @@ x install tabiew
 
 ## Code insight
 
-Total: **30,774** lines of code across **593** files in the top 5 languages.
+Total: **30,821** lines of code across **594** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 30,391 | 86 | 4,313 | 589 |
+| Rust | 30,438 | 83 | 4,306 | 590 |
 | Toml | 192 | 0 | 15 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -31,27 +31,27 @@ Total: **30,774** lines of code across **593** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.1` (2026-09-09)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-22
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 3,145 · **Forks**: 97 · **Open issues**: 98 · **Contributors**: 21
+- **Stars**: 3,144 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1587
+- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 2 | 83 |
-| last60d | 2026-08-23 | 2 | 2 | 2 | 2 | 4 | 202 |
-| 90d | 2026-07-24 | 3 | 2 | 2 | 2 | 6 | 235 |
-| last180d | 2026-04-25 | 6 | 3 | 3 | 6 | 10 | 433 |
-| 360d | 2025-10-27 | 8 | 7 | 4 | 14 | 14 | 889 |
-| last720d | 2024-11-01 | 21 | 19 | 4 | 67 | 16 | 1311 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 2 | 92 |
+| last60d | 2026-08-24 | 2 | 2 | 2 | 2 | 4 | 211 |
+| 90d | 2026-07-25 | 3 | 2 | 2 | 2 | 6 | 244 |
+| last180d | 2026-04-26 | 6 | 3 | 3 | 6 | 10 | 442 |
+| 360d | 2025-10-28 | 8 | 7 | 4 | 14 | 14 | 898 |
+| last720d | 2024-11-02 | 21 | 19 | 4 | 67 | 16 | 1320 |
 
 ## Release assets
 
@@ -72,6 +72,17 @@ Total: **30,774** lines of code across **593** files in the top 5 languages.
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **17** distros on [repology.org](https://repology.org/project/tabiew). **10** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.15.1` | ✅ latest |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.15.1` | ✅ latest |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tabiew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:04Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:49:30Z._

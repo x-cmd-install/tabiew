@@ -14,11 +14,11 @@ x install tabiew
 
 ## 代码洞察
 
-合计: **30,774** 行代码（覆盖前 5 种语言、共 **593** 个文件）。
+合计: **30,821** 行代码（覆盖前 5 种语言、共 **594** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 30,391 | 86 | 4,313 | 589 |
+| Rust | 30,438 | 83 | 4,306 | 590 |
 | Toml | 192 | 0 | 15 | 2 |
 | Sh | 191 | 12 | 30 | 1 |
 | Markdown | 0 | 134 | 51 | 1 |
@@ -31,27 +31,27 @@ x install tabiew
 ## 发布
 
 - **最新版本**: `v0.15.1` (2026-09-09)
-- **最近提交**: 2026-10-17
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 3,145 · **Fork**: 97 · **开放 issue**: 98 · **贡献者**: 21
+- **Star**: 3,144 · **Fork**: 98 · **开放 issue**: 98 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 4 · **已关闭 issue**: 82 · **开放 issue**: 16 · **提交数**: 1587
+- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 4 · **已关闭 issue**: 82 · **开放 issue**: 16 · **提交数**: 1596
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 2 | 83 |
-| last60d | 2026-08-23 | 2 | 2 | 2 | 2 | 4 | 202 |
-| 90d | 2026-07-24 | 3 | 2 | 2 | 2 | 6 | 235 |
-| last180d | 2026-04-25 | 6 | 3 | 3 | 6 | 10 | 433 |
-| 360d | 2025-10-27 | 8 | 7 | 4 | 14 | 14 | 889 |
-| last720d | 2024-11-01 | 21 | 19 | 4 | 67 | 16 | 1311 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 2 | 92 |
+| last60d | 2026-08-24 | 2 | 2 | 2 | 2 | 4 | 211 |
+| 90d | 2026-07-25 | 3 | 2 | 2 | 2 | 6 | 244 |
+| last180d | 2026-04-26 | 6 | 3 | 3 | 6 | 10 | 442 |
+| 360d | 2025-10-28 | 8 | 7 | 4 | 14 | 14 | 898 |
+| last720d | 2024-11-02 | 21 | 19 | 4 | 67 | 16 | 1320 |
 
 ## Release 资产
 
@@ -72,6 +72,17 @@ x install tabiew
 | [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
 | [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/tabiew) 上共有 **17** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.15.1` | ✅ latest |
+| Homebrew | `0.15.1` | ✅ latest |
+| Nix unstable | `0.15.1` | ✅ latest |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tabiew` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -81,4 +92,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:43:04Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:49:30Z._
