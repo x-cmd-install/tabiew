@@ -36,7 +36,7 @@ Total: **30,821** lines of code across **594** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,144 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
+- **Stars**: 3,145 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **30,821** lines of code across **594** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 2 | 92 |
-| last60d | 2026-08-24 | 2 | 2 | 2 | 2 | 4 | 211 |
-| 90d | 2026-07-25 | 3 | 2 | 2 | 2 | 6 | 244 |
-| last180d | 2026-04-26 | 6 | 3 | 3 | 6 | 10 | 442 |
-| 360d | 2025-10-28 | 8 | 7 | 4 | 14 | 14 | 898 |
-| last720d | 2024-11-02 | 21 | 19 | 4 | 67 | 16 | 1320 |
+| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 2 | 92 |
+| last60d | 2026-08-25 | 2 | 1 | 2 | 2 | 4 | 211 |
+| 90d | 2026-07-26 | 3 | 2 | 2 | 2 | 6 | 244 |
+| last180d | 2026-04-27 | 6 | 3 | 3 | 6 | 10 | 442 |
+| 360d | 2025-10-29 | 8 | 7 | 4 | 14 | 14 | 898 |
+| last720d | 2024-11-03 | 21 | 19 | 4 | 67 | 16 | 1320 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:49:30Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:39:08Z._
