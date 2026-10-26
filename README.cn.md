@@ -30,47 +30,47 @@ x install tabiew
 
 ## 发布
 
-- **最新版本**: `v0.15.1` (2026-09-09)
-- **最近提交**: 2026-10-25
+- **最新版本**: `v0.16.0` (2026-10-26)
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 3,146 · **Fork**: 98 · **开放 issue**: 98 · **贡献者**: 21
+- **Star**: 3,149 · **Fork**: 98 · **开放 issue**: 98 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 23 · **开放 PR**: 4 · **已关闭 issue**: 82 · **开放 issue**: 16 · **提交数**: 1600
+- **发布数**: 39 · **已合并 PR**: 23 · **开放 PR**: 4 · **已关闭 issue**: 82 · **开放 issue**: 16 · **提交数**: 1603
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 2 | 71 |
-| last60d | 2026-08-26 | 2 | 1 | 2 | 2 | 4 | 184 |
-| 90d | 2026-07-27 | 3 | 2 | 2 | 2 | 5 | 248 |
-| last180d | 2026-04-28 | 6 | 3 | 3 | 6 | 10 | 407 |
-| 360d | 2025-10-30 | 8 | 7 | 4 | 14 | 14 | 876 |
-| last720d | 2024-11-04 | 21 | 19 | 4 | 67 | 16 | 1324 |
+| 30d | 2026-09-26 | 1 | 0 | 1 | 0 | 2 | 74 |
+| last60d | 2026-08-27 | 3 | 1 | 2 | 2 | 4 | 187 |
+| 90d | 2026-07-28 | 4 | 2 | 2 | 2 | 5 | 251 |
+| last180d | 2026-04-29 | 7 | 3 | 3 | 5 | 10 | 410 |
+| 360d | 2025-10-31 | 9 | 7 | 4 | 14 | 14 | 879 |
+| last720d | 2024-11-05 | 22 | 19 | 4 | 67 | 16 | 1327 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.deb) | 14.4 MiB | `native/linux/arm64/glibc` |
-| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.rpm) | 16.7 MiB | `native/linux/arm64/glibc` |
-| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-manual-and-completions.tar.gz) | 3.9 KiB | `native/unknown` |
-| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.deb) | 16.1 MiB | `native/linux/x64/glibc` |
-| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.2 MiB | `native/linux/x64/glibc` |
-| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-apple-darwin) | 55.2 MiB | `native/darwin/arm64` |
-| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-pc-windows-msvc.exe) | 55.2 MiB | `native/win/arm64` |
-| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-gnu) | 63.3 MiB | `native/linux/arm64/glibc` |
-| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-musl) | 60.2 MiB | `native/linux/arm64/musl` |
-| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-armv7-unknown-linux-gnueabihf) | 60.8 MiB | `native/linux/arm/glibc` |
-| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-apple-darwin) | 65.0 MiB | `native/darwin/x64` |
-| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-pc-windows-msvc.exe) | 65.1 MiB | `native/win/x64` |
-| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
-| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
+| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-aarch64-unknown-linux-gnu.deb) | 14.8 MiB | `native/linux/arm64/glibc` |
+| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-aarch64-unknown-linux-gnu.rpm) | 17.1 MiB | `native/linux/arm64/glibc` |
+| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-manual-and-completions.tar.gz) | 18.4 KiB | `native/unknown` |
+| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-x86_64-unknown-linux-gnu.deb) | 16.6 MiB | `native/linux/x64/glibc` |
+| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.7 MiB | `native/linux/x64/glibc` |
+| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-apple-darwin) | 56.3 MiB | `native/darwin/arm64` |
+| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-pc-windows-msvc.exe) | 56.5 MiB | `native/win/arm64` |
+| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-gnu) | 64.2 MiB | `native/linux/arm64/glibc` |
+| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-musl) | 61.0 MiB | `native/linux/arm64/musl` |
+| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-armv7-unknown-linux-gnueabihf) | 62.1 MiB | `native/linux/arm/glibc` |
+| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-apple-darwin) | 65.9 MiB | `native/darwin/x64` |
+| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-pc-windows-msvc.exe) | 66.5 MiB | `native/win/x64` |
+| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-gnu) | 74.3 MiB | `native/linux/x64/glibc` |
+| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-musl) | 74.4 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
@@ -92,4 +92,4 @@ tabiew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T04:48:00Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T04:42:25Z._

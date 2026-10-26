@@ -30,47 +30,47 @@ Total: **30,873** lines of code across **595** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.15.1` (2026-09-09)
-- **Last commit**: 2026-10-25
+- **Latest**: `v0.16.0` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 3,146 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
+- **Stars**: 3,149 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1600
+- **Releases**: 39 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1603
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 2 | 71 |
-| last60d | 2026-08-26 | 2 | 1 | 2 | 2 | 4 | 184 |
-| 90d | 2026-07-27 | 3 | 2 | 2 | 2 | 5 | 248 |
-| last180d | 2026-04-28 | 6 | 3 | 3 | 6 | 10 | 407 |
-| 360d | 2025-10-30 | 8 | 7 | 4 | 14 | 14 | 876 |
-| last720d | 2024-11-04 | 21 | 19 | 4 | 67 | 16 | 1324 |
+| 30d | 2026-09-26 | 1 | 0 | 1 | 0 | 2 | 74 |
+| last60d | 2026-08-27 | 3 | 1 | 2 | 2 | 4 | 187 |
+| 90d | 2026-07-28 | 4 | 2 | 2 | 2 | 5 | 251 |
+| last180d | 2026-04-29 | 7 | 3 | 3 | 5 | 10 | 410 |
+| 360d | 2025-10-31 | 9 | 7 | 4 | 14 | 14 | 879 |
+| last720d | 2024-11-05 | 22 | 19 | 4 | 67 | 16 | 1327 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.deb) | 14.4 MiB | `native/linux/arm64/glibc` |
-| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-aarch64-unknown-linux-gnu.rpm) | 16.7 MiB | `native/linux/arm64/glibc` |
-| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-manual-and-completions.tar.gz) | 3.9 KiB | `native/unknown` |
-| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.deb) | 16.1 MiB | `native/linux/x64/glibc` |
-| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.2 MiB | `native/linux/x64/glibc` |
-| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-apple-darwin) | 55.2 MiB | `native/darwin/arm64` |
-| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-pc-windows-msvc.exe) | 55.2 MiB | `native/win/arm64` |
-| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-gnu) | 63.3 MiB | `native/linux/arm64/glibc` |
-| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-aarch64-unknown-linux-musl) | 60.2 MiB | `native/linux/arm64/musl` |
-| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-armv7-unknown-linux-gnueabihf) | 60.8 MiB | `native/linux/arm/glibc` |
-| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-apple-darwin) | 65.0 MiB | `native/darwin/x64` |
-| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-pc-windows-msvc.exe) | 65.1 MiB | `native/win/x64` |
-| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-gnu) | 73.1 MiB | `native/linux/x64/glibc` |
-| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.15.1/tw-x86_64-unknown-linux-musl) | 73.3 MiB | `native/linux/x64/musl` |
+| [tabiew-aarch64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-aarch64-unknown-linux-gnu.deb) | 14.8 MiB | `native/linux/arm64/glibc` |
+| [tabiew-aarch64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-aarch64-unknown-linux-gnu.rpm) | 17.1 MiB | `native/linux/arm64/glibc` |
+| [tabiew-manual-and-completions.tar.gz](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-manual-and-completions.tar.gz) | 18.4 KiB | `native/unknown` |
+| [tabiew-x86_64-unknown-linux-gnu.deb](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-x86_64-unknown-linux-gnu.deb) | 16.6 MiB | `native/linux/x64/glibc` |
+| [tabiew-x86_64-unknown-linux-gnu.rpm](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-x86_64-unknown-linux-gnu.rpm) | 17.7 MiB | `native/linux/x64/glibc` |
+| [tw-aarch64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-apple-darwin) | 56.3 MiB | `native/darwin/arm64` |
+| [tw-aarch64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-pc-windows-msvc.exe) | 56.5 MiB | `native/win/arm64` |
+| [tw-aarch64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-gnu) | 64.2 MiB | `native/linux/arm64/glibc` |
+| [tw-aarch64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-musl) | 61.0 MiB | `native/linux/arm64/musl` |
+| [tw-armv7-unknown-linux-gnueabihf](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-armv7-unknown-linux-gnueabihf) | 62.1 MiB | `native/linux/arm/glibc` |
+| [tw-x86_64-apple-darwin](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-apple-darwin) | 65.9 MiB | `native/darwin/x64` |
+| [tw-x86_64-pc-windows-msvc.exe](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-pc-windows-msvc.exe) | 66.5 MiB | `native/win/x64` |
+| [tw-x86_64-unknown-linux-gnu](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-gnu) | 74.3 MiB | `native/linux/x64/glibc` |
+| [tw-x86_64-unknown-linux-musl](https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-musl) | 74.4 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:47:59Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:42:25Z._
