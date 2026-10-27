@@ -36,22 +36,22 @@ Total: **30,873** lines of code across **595** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,149 · **Forks**: 98 · **Open issues**: 98 · **Contributors**: 21
+- **Stars**: 3,166 · **Forks**: 99 · **Open issues**: 99 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 16 · **Commits**: 1603
+- **Releases**: 39 · **Merged PRs**: 23 · **Open PRs**: 4 · **Closed issues**: 82 · **Open issues**: 17 · **Commits**: 1603
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 0 | 1 | 0 | 2 | 74 |
-| last60d | 2026-08-27 | 3 | 1 | 2 | 2 | 4 | 187 |
-| 90d | 2026-07-28 | 4 | 2 | 2 | 2 | 5 | 251 |
-| last180d | 2026-04-29 | 7 | 3 | 3 | 5 | 10 | 410 |
-| 360d | 2025-10-31 | 9 | 7 | 4 | 14 | 14 | 879 |
-| last720d | 2024-11-05 | 22 | 19 | 4 | 67 | 16 | 1327 |
+| 30d | 2026-09-27 | 1 | 0 | 1 | 0 | 3 | 74 |
+| last60d | 2026-08-28 | 3 | 1 | 2 | 2 | 5 | 187 |
+| 90d | 2026-07-29 | 4 | 2 | 2 | 2 | 6 | 251 |
+| last180d | 2026-04-30 | 7 | 3 | 3 | 5 | 11 | 410 |
+| 360d | 2025-11-01 | 9 | 7 | 4 | 14 | 15 | 879 |
+| last720d | 2024-11-06 | 22 | 19 | 4 | 67 | 17 | 1327 |
 
 ## Release assets
 
@@ -74,13 +74,13 @@ Total: **30,873** lines of code across **595** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **10** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **3** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.15.1` | ✅ latest |
-| Homebrew | `0.15.1` | ✅ latest |
-| Nix unstable | `0.15.1` | ✅ latest |
+| Arch | `0.16.0` | ✅ latest |
+| Homebrew | `0.16.0` | ✅ latest |
+| Nix unstable | `0.15.1` | ⚠️ outdated |
 | Alpine edge | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -92,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:42:25Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:09:58Z._
