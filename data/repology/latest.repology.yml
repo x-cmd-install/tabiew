@@ -16,8 +16,8 @@
   srcname: tabiew
   binname: tabiew
   visiblename: tabiew
-  version: 0.15.1
-  origversion: 0.15.1-1
+  version: 0.16.0
+  origversion: 0.16.0-1
   status: newest
   summary: A lightweight TUI to view and query CSV files
   licenses:
@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: tabiew
   visiblename: tabiew
-  version: 0.15.1
+  version: 0.16.0
   origversion: null
   status: newest
   summary: TUI to view and query tabular files (CSV,TSV, Parquet, etc.)
@@ -42,7 +42,7 @@
   visiblename: tabiew
   version: 0.15.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files
   maintainers:
     - sikmir@github
@@ -68,7 +68,7 @@
   visiblename: tabiew
   version: 0.15.1
   origversion: 0.15.1-1
-  status: newest
+  status: outdated
   summary: A lightweight TUI to view and query CSV files
   licenses:
     - MIT
@@ -79,7 +79,7 @@
   visiblename: tabiew
   version: 0.15.1
   origversion: 0.15.1-1
-  status: newest
+  status: outdated
   summary: A lightweight TUI to view and query CSV files
   licenses:
     - MIT
@@ -132,7 +132,7 @@
   visiblename: tabiew
   version: 0.15.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files
   maintainers:
     - anas.elgarhy.dev@gmail.com
@@ -145,7 +145,7 @@
   visiblename: tabiew
   version: 0.15.1
   origversion: 0.15.1-1
-  status: newest
+  status: outdated
   summary: A lightweight TUI to view and query CSV files
   licenses:
     - MIT
@@ -167,7 +167,7 @@
   visiblename: textproc/tabiew
   version: 0.15.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Lightweight TUI application to view and query tabular data files
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -179,7 +179,7 @@
   visiblename: textproc/tabiew
   version: 0.15.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Lightweight TUI application to view and query tabular data files
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -189,7 +189,7 @@
   subrepo: main
   binname: tabiew
   visiblename: tabiew
-  version: 0.15.1
+  version: 0.16.0
   origversion: null
   status: newest
   licenses:
