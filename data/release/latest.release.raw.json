@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17904011,
       "digest": "sha256:ecd3942bba9a5e484a8dc2cf6973548ac960238d181a7e462e76c1c4a69f53a9",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:44Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-aarch64-unknown-linux-gnu.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18849,
       "digest": "sha256:7a83c8644ebd0e447ae3a3348a5c43e768cf1b26a51be243a8ffd424c6b15aef",
-      "download_count": 37,
+      "download_count": 43,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:43Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-manual-and-completions.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17421016,
       "digest": "sha256:10518707a8b04af6973374555cae24244a0c3c13b6ecc5423d68fac2248672c3",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:44Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tabiew-x86_64-unknown-linux-gnu.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 59030048,
       "digest": "sha256:8865df2d3dad3814477da7f2360b9da08df182c98691ce8199479d43ad474ef6",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:47Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-apple-darwin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 59223552,
       "digest": "sha256:be88ea10b14826dce409cb32a3c68acf628d5b7d6da055de12cf4c1d04f59f90",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:47Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-pc-windows-msvc.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 67276400,
       "digest": "sha256:8d3e8ebacaf69115a7a962aeb62beb0ae03b60f95371fb8316c6d9b2a455a0d1",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:48Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-gnu"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 64015440,
       "digest": "sha256:101b3345d016bf6ddfce70790aebb76a669804cd3832b43b25cae6856737bd06",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:47Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-aarch64-unknown-linux-musl"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 69138568,
       "digest": "sha256:b8707298b199f944dcdf3358a2a7d5aa28621b8cb60420243c07244c31b684ca",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:48Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-apple-darwin"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 69689856,
       "digest": "sha256:1b6d6db9f0a6befa3a785fa1d01b44fe00f2c3c15f7eb6c17916ba8721f4f172",
-      "download_count": 112,
+      "download_count": 120,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:47Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-pc-windows-msvc.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 77936488,
       "digest": "sha256:bfb6b88c2cb0493349e4824944b428cb1307e5e96749f9728f0a912e9380d837",
-      "download_count": 89,
+      "download_count": 95,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:47Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-gnu"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 78032904,
       "digest": "sha256:575b840cd861a4cf98541e92c95046b6c7acd747921c230d80bb6458c4941120",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-10-26T01:16:42Z",
       "updated_at": "2026-10-26T01:16:48Z",
       "browser_download_url": "https://github.com/shshemi/tabiew/releases/download/v0.16.0/tw-x86_64-unknown-linux-musl"
