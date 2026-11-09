@@ -36,7 +36,7 @@ Total: **30,897** lines of code across **595** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,185 · **Forks**: 99 · **Open issues**: 101 · **Contributors**: 21
+- **Stars**: 3,186 · **Forks**: 99 · **Open issues**: 101 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **30,897** lines of code across **595** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 2 | 1 | 4 | 22 |
-| last60d | 2026-09-09 | 2 | 0 | 2 | 1 | 5 | 133 |
-| 90d | 2026-08-10 | 4 | 2 | 3 | 3 | 7 | 230 |
-| last180d | 2026-05-12 | 6 | 2 | 4 | 5 | 11 | 405 |
-| 360d | 2025-11-13 | 9 | 7 | 5 | 14 | 16 | 863 |
-| last720d | 2024-11-18 | 21 | 19 | 5 | 64 | 18 | 1318 |
+| 30d | 2026-10-10 | 1 | 0 | 1 | 1 | 4 | 22 |
+| last60d | 2026-09-10 | 1 | 0 | 2 | 1 | 5 | 133 |
+| 90d | 2026-08-11 | 4 | 2 | 3 | 3 | 7 | 230 |
+| last180d | 2026-05-13 | 6 | 2 | 4 | 5 | 11 | 405 |
+| 360d | 2025-11-14 | 9 | 7 | 5 | 14 | 16 | 863 |
+| last720d | 2024-11-19 | 21 | 19 | 5 | 64 | 18 | 1316 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **30,897** lines of code across **595** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **7** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:05:52Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:21:01Z._
