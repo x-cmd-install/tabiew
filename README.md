@@ -46,12 +46,12 @@ Total: **30,897** lines of code across **595** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 0 | 3 | 1 | 3 | 12 |
-| last60d | 2026-09-20 | 1 | 0 | 4 | 1 | 5 | 115 |
-| 90d | 2026-08-21 | 3 | 2 | 4 | 3 | 8 | 227 |
-| last180d | 2026-05-23 | 6 | 2 | 5 | 4 | 12 | 405 |
-| 360d | 2025-11-24 | 9 | 7 | 6 | 14 | 17 | 790 |
-| last720d | 2024-11-29 | 21 | 19 | 6 | 64 | 19 | 1315 |
+| 30d | 2026-10-21 | 1 | 0 | 3 | 1 | 3 | 12 |
+| last60d | 2026-09-21 | 1 | 0 | 4 | 1 | 5 | 115 |
+| 90d | 2026-08-22 | 3 | 2 | 4 | 3 | 8 | 227 |
+| last180d | 2026-05-24 | 6 | 2 | 5 | 4 | 12 | 405 |
+| 360d | 2025-11-25 | 9 | 7 | 6 | 14 | 17 | 790 |
+| last720d | 2024-11-30 | 21 | 19 | 6 | 64 | 19 | 1312 |
 
 ## Release assets
 
@@ -74,13 +74,13 @@ Total: **30,897** lines of code across **595** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **7** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/tabiew). **8** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.16.0` | ✅ latest |
 | Homebrew | `0.16.0` | ✅ latest |
-| Nix unstable | `0.15.1` | ⚠️ outdated |
+| Nix unstable | `0.16.0` | ✅ latest |
 | Alpine edge | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -92,4 +92,4 @@ Install metadata for tabiew lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:07:28Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:35:55Z._
