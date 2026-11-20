@@ -130,9 +130,9 @@
 - repo: nix_unstable
   srcname: tabiew
   visiblename: tabiew
-  version: 0.15.1
+  version: 0.16.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files
   maintainers:
     - anas.elgarhy.dev@gmail.com
